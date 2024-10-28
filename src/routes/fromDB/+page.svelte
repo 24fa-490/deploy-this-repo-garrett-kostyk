@@ -29,7 +29,3 @@
 		font-style: italic;
 	}
 </style>
-	.i {
-		font-style: italic;
-	}
-</style>
