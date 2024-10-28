@@ -26,7 +26,7 @@
 
 # Where am I deployed?
 
-[deploy-this-repo-garrett-kostyk-f5yq.vercel.app](https://deploy-this-repo-garrett-kostyk-f5yq.vercel.app/)
+https://deploy-this-repo-garrett-kostyk-f5yq.vercel.app/
 
 
 
